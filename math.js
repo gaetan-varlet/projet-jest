@@ -3,5 +3,5 @@ export default function sum(a, b) {
 }
 
 export function maSuperFonctionAvecUnNomARallongeMaSuperFonctionAvecUnNomARallonge(aze) {
-    return aze + 'toto'
+    return `${aze}toto`
 }
